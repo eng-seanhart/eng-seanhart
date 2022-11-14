@@ -4,4 +4,5 @@ My name is Sean Hart, and I am a senior at Gannon University dual majoring in co
 
 - 🔭 I’m currently working on: Workout Tracking Application
 - 🌱 I’m currently learning: Go
-- 📫 How to reach me: seanharteng@gmail.com
+- 📫 Email me at: seanharteng@gmail.com
+- 🤝 Connect with me at: https://www.linkedin.com/in/seanhart01/
